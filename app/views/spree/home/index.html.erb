@@ -1,13 +1,26 @@
 <% @body_id = 'home-page' %>
-<% content_for :sidebar do %>
-  <div data-hook="homepage_sidebar_navigation">
-    <%= render partial: 'spree/shared/taxonomies' %>
-  </div>
-<% end %>
 
 <div data-hook="homepage_products">
-  <% cache(cache_key_for_products) do %>
-    <%= render partial: 'spree/shared/products', locals: { products: @products } %>
-  <% end %>
+
+  <%= render partial: 'spree/shared/slider' %>
+
+  <section class="featured-section">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="titie-section wow fadeInDown animated ">
+            <h1>FEATURED PRODUCTS</h1>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <% cache(cache_key_for_products) do %>
+            <%= render partial: 'spree/shared/products', locals: { products: @products } %>
+        <% end %>
+      </div>
+    </div>
+  </section>
 </div>
 
+<%= render partial: 'spree/shared/season_sale' %>
+<%= render partial: 'spree/shared/get_in_touch' %>
