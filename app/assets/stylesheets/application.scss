@@ -528,7 +528,7 @@ a.carousel-control.right > span{
     CONTACT SECTION
  */
 .contact-section{
-    background-image: url(map-bg.png);
+    background-image: asset-data-url('map-bg.png');
     /*  background-size: 100%;   */
     background-repeat: no-repeat;
     background-position: center center;
