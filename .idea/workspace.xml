@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b975c32-da48-4dce-a27f-4eb17f18433a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environments/production.rb" afterPath="$PROJECT_DIR$/config/environments/production.rb" />
-    </list>
+    <list default="true" id="5b975c32-da48-4dce-a27f-4eb17f18433a" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/public/system/" />
@@ -329,12 +326,12 @@
       <workItem from="1548048877286" duration="936000" />
       <workItem from="1548049832707" duration="3236000" />
       <workItem from="1548053139005" duration="4119000" />
-      <workItem from="1548059517376" duration="17582000" />
+      <workItem from="1548059517376" duration="17770000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25873000" />
+    <option name="totallyTimeSpent" value="26061000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1795" height="1035" extended-state="6" />
