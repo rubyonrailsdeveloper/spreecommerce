@@ -379,8 +379,8 @@ th {
 }
 @font-face {
   font-family: 'Glyphicons Halflings';
-  src: url("./fonts/glyphicons-halflings-regular.eot");
-  src: url("./fonts/glyphicons-halflings-regular.eot?#iefix") format("embedded-opentype"), url("./fonts/glyphicons-halflings-regular.woff") format("woff"), url("./fonts/glyphicons-halflings-regular.ttf") format("truetype"), url("./fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular") format("svg");
+  src: url(/assets/glyphicons-halflings-regular-f495f34e4f177cf0115af995bbbfeb3fcabc88502876e76fc51a4ab439bc8431.eot);
+  src: url(/assets/glyphicons-halflings-regular-f495f34e4f177cf0115af995bbbfeb3fcabc88502876e76fc51a4ab439bc8431.eot?#iefix) format("embedded-opentype"), url(/assets/glyphicons-halflings-regular-fc969dc1c6ff531abcf368089dcbaf5775133b0626ff56b52301a059fc0f9e1e.woff) format("woff"), url(/assets/glyphicons-halflings-regular-bd18efd3efd70fec8ad09611a20cdbf99440b2c1d40085c29be036f891d65358.ttf) format("truetype"), url(/assets/glyphicons-halflings-regular-5d234508037dc13a419ef6ce48f3fc73dbb477f1a162c052b872182b494e626e.svg#glyphicons_halflingsregular) format("svg");
 }
 /* line 273, /home/development/Workspace/spreecommerce3.5/app/assets/stylesheets/bootstrap.scss */
 .glyphicon {
@@ -8310,8 +8310,8 @@ button.close {
     transition: transform .6s ease-in-out;
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
-    -webkit-perspective: 1000;
-    perspective: 1000;
+    -webkit-perspective: 1000px;
+    perspective: 1000px;
   }
 
   /* line 5846, /home/development/Workspace/spreecommerce3.5/app/assets/stylesheets/bootstrap.scss */
@@ -8949,7 +8949,7 @@ button.close {
     display: none !important;
   }
 }
-/*# sourceMappingURL=bootstrap.scss.map */
+/*# sourceMappingURL=bootstrap.css.map */
 /* line 1, /home/development/.rvm/gems/ruby-2.5.1/bundler/gems/spree-quotes-management-f1736f976c5b/app/assets/stylesheets/spree/frontend/quotes/_form.scss */
 .form-control {
   box-shadow: none;

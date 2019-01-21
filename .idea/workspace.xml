@@ -2,24 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b975c32-da48-4dce-a27f-4eb17f18433a" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/assets/stylesheets/spree/frontend/all.css" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/spree/frontend/all.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/stylesheets/bootstrap.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/bootstrap.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/stylesheets/owl.carousel.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/owl.carousel.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/stylesheets/pe-icon-7-stroke.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/pe-icon-7-stroke.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/spree/backend/all-6152942b8d11f472ee4d1192369da680a00b86cd0c35f39cbd747d6f7ed8e688.css" afterPath="$PROJECT_DIR$/public/assets/spree/backend/all-6152942b8d11f472ee4d1192369da680a00b86cd0c35f39cbd747d6f7ed8e688.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/spree/backend/all-69cf94875f378114f7f488906b878e7dc75698394459010c9d1e511f8ac24ea8.css" afterPath="$PROJECT_DIR$/public/assets/spree/backend/all-69cf94875f378114f7f488906b878e7dc75698394459010c9d1e511f8ac24ea8.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/spree/frontend/all-23e34f8032d9dd49bd621437a2494f95fe4af6c542eee45eec43f1870a57437f.css" afterPath="$PROJECT_DIR$/public/assets/spree/frontend/all-23e34f8032d9dd49bd621437a2494f95fe4af6c542eee45eec43f1870a57437f.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/spree/frontend/all-2cd8beca53ec6d1877b6cc33a1263bf48ec7b3690555d187b3824e329ef7c906.css" afterPath="$PROJECT_DIR$/public/assets/spree/frontend/all-2cd8beca53ec6d1877b6cc33a1263bf48ec7b3690555d187b3824e329ef7c906.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/spree/frontend/all-2f2f432500ede42dfa3fa1df663b1525eccf9b4050855db26af06ef456224bbc.css" afterPath="$PROJECT_DIR$/public/assets/spree/frontend/all-2f2f432500ede42dfa3fa1df663b1525eccf9b4050855db26af06ef456224bbc.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/spree/frontend/all-33c1899df03871c37f19555e06c6e8f5b8531ace068e35b59659d3c9519b3168.css" afterPath="$PROJECT_DIR$/public/assets/spree/frontend/all-33c1899df03871c37f19555e06c6e8f5b8531ace068e35b59659d3c9519b3168.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/spree/frontend/all-346e88faad2d96e9b14e67e6fd6cdb826dfc5a81a235d8dfea8508424a327862.css" afterPath="$PROJECT_DIR$/public/assets/spree/frontend/all-346e88faad2d96e9b14e67e6fd6cdb826dfc5a81a235d8dfea8508424a327862.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/spree/frontend/all-42a83ec8559fa84da152f83010c4c30d51a692d692a4ded4563b3f3566bff8cc.css" afterPath="$PROJECT_DIR$/public/assets/spree/frontend/all-42a83ec8559fa84da152f83010c4c30d51a692d692a4ded4563b3f3566bff8cc.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/spree/frontend/all-4f4786e5059cbad6f31f6affb8f5a451123afe1a66ba31271cf40a7adddeb0ac.css" afterPath="$PROJECT_DIR$/public/assets/spree/frontend/all-4f4786e5059cbad6f31f6affb8f5a451123afe1a66ba31271cf40a7adddeb0ac.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/spree/frontend/all-731a80a1273c458177fd2025ff05667bee0ad28350e69aa2e9af2967cc40b631.css" afterPath="$PROJECT_DIR$/public/assets/spree/frontend/all-731a80a1273c458177fd2025ff05667bee0ad28350e69aa2e9af2967cc40b631.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/spree/frontend/all-73ae035ebae4706c358aca0d89a2c4b25c0b05e551cca26f29c5d2adf3f998bf.css" afterPath="$PROJECT_DIR$/public/assets/spree/frontend/all-73ae035ebae4706c358aca0d89a2c4b25c0b05e551cca26f29c5d2adf3f998bf.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/spree/frontend/all-87ff02528b3a734fefa3805e4d227a604fbb50fea5832f8a4bcf800ef6cecc44.css" afterPath="$PROJECT_DIR$/public/assets/spree/frontend/all-87ff02528b3a734fefa3805e4d227a604fbb50fea5832f8a4bcf800ef6cecc44.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/spree/frontend/all-a0e32304671ca238116738775b01a40b97b7acdcff0e1eb121aa1ac874f9a1e4.css" afterPath="$PROJECT_DIR$/public/assets/spree/frontend/all-a0e32304671ca238116738775b01a40b97b7acdcff0e1eb121aa1ac874f9a1e4.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/spree/frontend/all-cf0de946b0e05eb80133d0c1e6d46d00852d7e96539d66af5a67390af9390bb0.css" afterPath="$PROJECT_DIR$/public/assets/spree/frontend/all-cf0de946b0e05eb80133d0c1e6d46d00852d7e96539d66af5a67390af9390bb0.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/spree/frontend/all-e8949e0305d1e26afe38712408b47f6149b9217dc7ab17b9e945cdcc29c7a1d7.css" afterPath="$PROJECT_DIR$/public/assets/spree/frontend/all-e8949e0305d1e26afe38712408b47f6149b9217dc7ab17b9e945cdcc29c7a1d7.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/spree/frontend/all-f4873113e3a035958228d1f0a78ff508302420bd3461f5b41c1d4b10072a3eb0.css" afterPath="$PROJECT_DIR$/public/assets/spree/frontend/all-f4873113e3a035958228d1f0a78ff508302420bd3461f5b41c1d4b10072a3eb0.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/font-awesome.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/font-awesome.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/.sprockets-manifest-58b82a41cccb07939b2c5c8b7ca10f35.json" afterPath="$PROJECT_DIR$/public/assets/.sprockets-manifest-58b82a41cccb07939b2c5c8b7ca10f35.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/application-000797123ec5e4575cdcf2c33809a45757137a30b7cf5c5ae816d20140201800.css" afterPath="$PROJECT_DIR$/public/assets/application-000797123ec5e4575cdcf2c33809a45757137a30b7cf5c5ae816d20140201800.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/spree/backend/all-0737946d88443542e140e6bd07cfb37c7b637bd3171ef3e1469b0fa10d31fe4b.css" afterPath="$PROJECT_DIR$/public/assets/spree/backend/all-0737946d88443542e140e6bd07cfb37c7b637bd3171ef3e1469b0fa10d31fe4b.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/spree/frontend/quotes/new-ed6c2f941d8896ce750956af29b089ed7887d869963fa8ac4b8cd7c25e9b259d.css" afterPath="$PROJECT_DIR$/public/assets/spree/frontend/quotes/new-ed6c2f941d8896ce750956af29b089ed7887d869963fa8ac4b8cd7c25e9b259d.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/assets/stylesheets/spree/frontend/all.scss" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/spree/frontend/all.scss" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -35,101 +27,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_sidebar.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/components/_sidebar.scss">
+      <file leaf-file-name="font-awesome.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/font-awesome.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-261">
-              <caret line="41" column="25" lean-forward="true" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+            <state relative-caret-position="4212">
+              <caret line="234" column="1" lean-forward="false" selection-start-line="234" selection-start-column="1" selection-end-line="234" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_buttons.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/components/_buttons.scss">
+      <file leaf-file-name="bootstrap.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/bootstrap.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="33" column="24" lean-forward="false" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+            <state relative-caret-position="282">
+              <caret line="87" column="12" lean-forward="true" selection-start-line="87" selection-start-column="12" selection-end-line="87" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_filters.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/components/_filters.scss">
+      <file leaf-file-name="pe-icon-7-stroke.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/pe-icon-7-stroke.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="450">
+              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_taxon_products_view.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/components/_taxon_products_view.scss">
+      <file leaf-file-name="all.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vendor/assets/stylesheets/spree/frontend/all.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="59" column="9" lean-forward="true" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
+            <state relative-caret-position="378">
+              <caret line="21" column="24" lean-forward="false" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_account.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/sections/_account.scss">
+      <file leaf-file-name="owl.carousel.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/owl.carousel.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_select2.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/plugins/_select2.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-373">
-              <caret line="87" column="21" lean-forward="true" selection-start-line="87" selection-start-column="21" selection-end-line="87" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_jquery_ui.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/plugins/_jquery_ui.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="59">
-              <caret line="94" column="15" lean-forward="true" selection-start-line="94" selection-start-column="15" selection-end-line="94" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_base.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/shared/_base.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-103">
-              <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_forms.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/shared/_forms.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="frontend_bootstrap.css.scss" pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_frontend-3.5.0/app/assets/stylesheets/spree/frontend/frontend_bootstrap.css.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="49" column="1" lean-forward="true" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+            <state relative-caret-position="468">
+              <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="2" selection-end-line="57" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -162,6 +104,9 @@
       <find>navbar-heigh</find>
       <find>navbar</find>
       <find>gra</find>
+      <find>nav</find>
+      <find>glyph</find>
+      <find>Pe-icon-7-stroke.wof</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -170,12 +115,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/db/migrate/20190121055475_rename_pause_in_spree_subscriptions.spree_product_subscriptions.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/20190121055474_add_next_occurrence_at_column_to_spree_subscriptions.spree_product_subscriptions.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/20190121055473_add_pause_and_day_column_to_spree_subscriptions.spree_product_subscriptions.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/20190121055472_add_delivery_number_to_spree_subscriptions.spree_product_subscriptions.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/20190121055471_remove_end_date_from_subscriptions.spree_product_subscriptions.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/20190121055470_add_polymorphic_source_reference_to_subscription.spree_product_subscriptions.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20190121055469_add_months_count_column_to_spree_subscription_frequencies.spree_product_subscriptions.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20190121055468_add_columns_to_spree_subscriptions.spree_product_subscriptions.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20190121055467_change_names_of_tables_and_columns.spree_product_subscriptions.rb" />
@@ -206,21 +145,27 @@
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/font-awesome.css" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.scss" />
-        <option value="$PROJECT_DIR$/vendor/assets/stylesheets/spree/frontend/all.scss" />
         <option value="$PROJECT_DIR$/vendor/assets/stylesheets/spree/frontend/all.css" />
         <option value="$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/spree-quotes-management-f1736f976c5b/app/assets/stylesheets/spree/frontend/quotes/_form.scss" />
-        <option value="$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/components/_sidebar.scss" />
         <option value="$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/components/_tables.scss" />
         <option value="$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/components/_page_header.scss" />
-        <option value="$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/components/_buttons.scss" />
-        <option value="$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/components/_filters.scss" />
-        <option value="$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/components/_taxon_products_view.scss" />
-        <option value="$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/sections/_account.scss" />
-        <option value="$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/plugins/_select2.scss" />
-        <option value="$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/plugins/_jquery_ui.scss" />
-        <option value="$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/shared/_base.scss" />
-        <option value="$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/shared/_forms.scss" />
         <option value="$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_frontend-3.5.0/app/assets/stylesheets/spree/frontend/frontend_bootstrap.css.scss" />
+        <option value="$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/shared/_forms.scss" />
+        <option value="$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/shared/_base.scss" />
+        <option value="$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/plugins/_jquery_ui.scss" />
+        <option value="$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/plugins/_select2.scss" />
+        <option value="$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/sections/_account.scss" />
+        <option value="$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/components/_taxon_products_view.scss" />
+        <option value="$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/components/_filters.scss" />
+        <option value="$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/components/_buttons.scss" />
+        <option value="$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/components/_sidebar.scss" />
+        <option value="$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/global/_variables.scss" />
+        <option value="$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_frontend-3.5.0/app/assets/stylesheets/spree/frontend/_variables.scss" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/font-awesome.scss" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/bootstrap.scss" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/pe-icon-7-stroke.scss" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/owl.carousel.scss" />
+        <option value="$PROJECT_DIR$/vendor/assets/stylesheets/spree/frontend/all.scss" />
       </list>
     </option>
   </component>
@@ -262,7 +207,7 @@
     </navigator>
     <panes>
       <pane id="RailsProjectView" />
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -272,129 +217,62 @@
             </path>
             <path>
               <item name="spreecommerce3.5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="spreecommerce3.5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="spree_frontend (v3.5.0, RVM: ruby-2.5.1) [gem]" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="spreecommerce3.5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="spree_frontend (v3.5.0, RVM: ruby-2.5.1) [gem]" type="70bed36:NamedLibraryElementNode" />
+              <item name="spreecommerce3.5" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spreecommerce3.5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="spree_frontend (v3.5.0, RVM: ruby-2.5.1) [gem]" type="70bed36:NamedLibraryElementNode" />
+              <item name="spreecommerce3.5" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spreecommerce3.5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="spree_frontend (v3.5.0, RVM: ruby-2.5.1) [gem]" type="70bed36:NamedLibraryElementNode" />
+              <item name="spreecommerce3.5" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spreecommerce3.5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="spree_frontend (v3.5.0, RVM: ruby-2.5.1) [gem]" type="70bed36:NamedLibraryElementNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
-              <item name="spree" type="462c0819:PsiDirectoryNode" />
+              <item name="spreecommerce3.5" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spreecommerce3.5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="spree_frontend (v3.5.0, RVM: ruby-2.5.1) [gem]" type="70bed36:NamedLibraryElementNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
-              <item name="spree" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spreecommerce3.5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="spree_quotes_management (v3.3.0@f1736f, RVM: ruby-2.5.1) [gem]" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="spreecommerce3.5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="spree_quotes_management (v3.3.0@f1736f, RVM: ruby-2.5.1) [gem]" type="70bed36:NamedLibraryElementNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spreecommerce3.5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="spree_quotes_management (v3.3.0@f1736f, RVM: ruby-2.5.1) [gem]" type="70bed36:NamedLibraryElementNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="spreecommerce3.5" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spreecommerce3.5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="spree_quotes_management (v3.3.0@f1736f, RVM: ruby-2.5.1) [gem]" type="70bed36:NamedLibraryElementNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="spreecommerce3.5" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spreecommerce3.5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="spree_quotes_management (v3.3.0@f1736f, RVM: ruby-2.5.1) [gem]" type="70bed36:NamedLibraryElementNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="spreecommerce3.5" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
               <item name="spree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spreecommerce3.5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="spree_quotes_management (v3.3.0@f1736f, RVM: ruby-2.5.1) [gem]" type="70bed36:NamedLibraryElementNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="spreecommerce3.5" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
               <item name="spree" type="462c0819:PsiDirectoryNode" />
               <item name="frontend" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spreecommerce3.5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="spree_quotes_management (v3.3.0@f1736f, RVM: ruby-2.5.1) [gem]" type="70bed36:NamedLibraryElementNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
-              <item name="spree" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="quotes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spreecommerce3.5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="spree_quotes_management (v3.3.0@f1736f, RVM: ruby-2.5.1) [gem]" type="70bed36:NamedLibraryElementNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spreecommerce3.5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="spree_quotes_management (v3.3.0@f1736f, RVM: ruby-2.5.1) [gem]" type="70bed36:NamedLibraryElementNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="spree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -530,12 +408,13 @@
       <workItem from="1548049832707" duration="3236000" />
       <workItem from="1548053139005" duration="4119000" />
       <workItem from="1548059517376" duration="23240000" />
-      <workItem from="1548089913820" duration="2100000" />
+      <workItem from="1548089913820" duration="6215000" />
+      <workItem from="1548096228446" duration="724000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33631000" />
+    <option name="totallyTimeSpent" value="38470000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -547,17 +426,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1793" height="1027" extended-state="6" />
-    <editor active="true" />
+    <frame x="65" y="-4" width="1795" height="1035" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2610189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26445335" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45545658" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45879734" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901832" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -581,27 +459,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/views/spree/home/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="46" lean-forward="false" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/spree/shared/_head.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/spree/shared/_header.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/secrets.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
@@ -634,9 +491,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -644,9 +498,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -707,7 +558,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -750,7 +600,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="25" column="35" lean-forward="false" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -761,26 +610,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="3047" column="18" lean-forward="false" selection-start-line="3047" selection-start-column="13" selection-end-line="3047" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/pe-icon-7-stroke.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/spree-quotes-management-f1736f976c5b/app/assets/stylesheets/spree/frontend/quotes/new.css.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -796,23 +629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/font-awesome.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/assets/stylesheets/spree/frontend/all.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -820,7 +636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -828,7 +643,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="51" column="13" lean-forward="true" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -844,7 +658,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -852,7 +665,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-499">
           <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -860,86 +672,129 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/components/_sidebar.scss">
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/shared/_forms.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-261">
-          <caret line="41" column="25" lean-forward="true" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
-          <folding />
+        <state relative-caret-position="108">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/components/_buttons.scss">
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/shared/_base.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="33" column="24" lean-forward="false" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
-          <folding />
+        <state relative-caret-position="18">
+          <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/components/_filters.scss">
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/plugins/_jquery_ui.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="18">
+          <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/components/_taxon_products_view.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="59" column="9" lean-forward="true" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
-          <folding />
+        <state relative-caret-position="90">
+          <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/components/_sidebar.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-138">
+          <caret line="21" column="16" lean-forward="false" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/global/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="32" column="21" lean-forward="false" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/plugins/_select2.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/sections/_account.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-          <folding />
+          <caret line="15" column="33" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/plugins/_select2.scss">
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/components/_filters.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-373">
-          <caret line="87" column="21" lean-forward="true" selection-start-line="87" selection-start-column="21" selection-end-line="87" selection-end-column="21" />
-          <folding />
+        <state relative-caret-position="146">
+          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/plugins/_jquery_ui.scss">
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/components/_buttons.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="94" column="15" lean-forward="true" selection-start-line="94" selection-start-column="15" selection-end-line="94" selection-end-column="15" />
-          <folding />
+        <state relative-caret-position="270">
+          <caret line="33" column="35" lean-forward="false" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/shared/_base.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-103">
-          <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_backend-3.5.0/app/assets/stylesheets/spree/backend/shared/_forms.scss">
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_frontend-3.5.0/app/assets/stylesheets/spree/frontend/_variables.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding />
+          <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/spree_frontend-3.5.0/app/assets/stylesheets/spree/frontend/frontend_bootstrap.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="49" column="1" lean-forward="true" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+        <state relative-caret-position="0">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/font-awesome.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4212">
+          <caret line="234" column="1" lean-forward="false" selection-start-line="234" selection-start-column="1" selection-end-line="234" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/bootstrap.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="87" column="12" lean-forward="true" selection-start-line="87" selection-start-column="12" selection-end-line="87" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/pe-icon-7-stroke.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/owl.carousel.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="2" selection-end-line="57" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/assets/stylesheets/spree/frontend/all.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="24" lean-forward="false" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
           <folding />
         </state>
       </provider>
