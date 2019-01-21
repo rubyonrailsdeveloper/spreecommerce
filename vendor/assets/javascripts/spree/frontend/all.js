@@ -20,5 +20,4 @@
 //= require spree/frontend/spree_address_auto_complete
 //= require spree/frontend/spree_quotes_management
 //= require spree/frontend/spree_wishlist
-//= require spree/frontend/spree_marketing
-//= require spree/frontend/spree_events_tracker
+
