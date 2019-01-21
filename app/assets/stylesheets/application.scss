@@ -627,36 +627,36 @@ a.carousel-control.right > span{
     background: #1abc9c;
     border: 1px solid #1abc9c;
 }
-.contact-form{
+.new_contact_us_contact{
     margin-top: 10px;
     display: block;
 }
-.contact-form .col-md-6{
+.new_contact_us_contact .col-md-6{
     display: block;
-    margin-bottom: 30px;
+    margin-bottom: 8px;
 }
 
-.contact-form .input-group{
+.new_contact_us_contact .input-group{
     width: 100%;
     display: block;
 }
-.contact-form .input-group input.form-control, .contact-form .input-group textarea.form-control{
+.new_contact_us_contact .input-group input.form-control, .new_contact_us_contact .input-group textarea.form-control{
     width: 100%;
     display: block;
     background: transparent;
     border: 1px solid #fff;
     height: 50px;
 }
-.contact-form .input-group textarea.form-control{
+.new_contact_us_contact .input-group textarea.form-control{
     height: 150px;
 }
-.contact-form .input-group .form-control:focus, .contact-form .input-group .form-control:hover{
+.new_contact_us_contact .input-group .form-control:focus, .new_contact_us_contact .input-group .form-control:hover{
     border: 1px solid #1abc9c;
     box-shadow: none;
     color: #1abc9c !important;
 }
 
-.contact-form .input-group input.contact-submit{
+.new_contact_us_contact .input-group input.contact-submit{
     display: inline-block;
     background: #1abc9c !important;
     padding: 10px 40px;
@@ -665,4 +665,10 @@ a.carousel-control.right > span{
     margin-top: 30px;
     font-size: 16px;
     text-transform: uppercase;
+}
+#best-sellers .col-lg-12.col-sm-12{
+    margin-bottom: 30px;
+}
+.new_contact_us_contact .subject-wrapper{
+    margin-bottom: 9px;
 }
