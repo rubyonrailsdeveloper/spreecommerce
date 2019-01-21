@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b975c32-da48-4dce-a27f-4eb17f18433a" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/initializers/assets.rb" afterPath="$PROJECT_DIR$/config/initializers/assets.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/.sprockets-manifest-58b82a41cccb07939b2c5c8b7ca10f35.json" afterPath="$PROJECT_DIR$/public/assets/.sprockets-manifest-58b82a41cccb07939b2c5c8b7ca10f35.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/spree/frontend/all-2cd8beca53ec6d1877b6cc33a1263bf48ec7b3690555d187b3824e329ef7c906.css" afterPath="$PROJECT_DIR$/public/assets/spree/frontend/all-2cd8beca53ec6d1877b6cc33a1263bf48ec7b3690555d187b3824e329ef7c906.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/spree/frontend/all-2f2f432500ede42dfa3fa1df663b1525eccf9b4050855db26af06ef456224bbc.css" afterPath="$PROJECT_DIR$/public/assets/spree/frontend/all-2f2f432500ede42dfa3fa1df663b1525eccf9b4050855db26af06ef456224bbc.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/spree/frontend/all-33c1899df03871c37f19555e06c6e8f5b8531ace068e35b59659d3c9519b3168.css" afterPath="$PROJECT_DIR$/public/assets/spree/frontend/all-33c1899df03871c37f19555e06c6e8f5b8531ace068e35b59659d3c9519b3168.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/spree/frontend/all-346e88faad2d96e9b14e67e6fd6cdb826dfc5a81a235d8dfea8508424a327862.css" afterPath="$PROJECT_DIR$/public/assets/spree/frontend/all-346e88faad2d96e9b14e67e6fd6cdb826dfc5a81a235d8dfea8508424a327862.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/spree/frontend/all-4f4786e5059cbad6f31f6affb8f5a451123afe1a66ba31271cf40a7adddeb0ac.css" afterPath="$PROJECT_DIR$/public/assets/spree/frontend/all-4f4786e5059cbad6f31f6affb8f5a451123afe1a66ba31271cf40a7adddeb0ac.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/spree/frontend/all-731a80a1273c458177fd2025ff05667bee0ad28350e69aa2e9af2967cc40b631.css" afterPath="$PROJECT_DIR$/public/assets/spree/frontend/all-731a80a1273c458177fd2025ff05667bee0ad28350e69aa2e9af2967cc40b631.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/spree/frontend/all-73ae035ebae4706c358aca0d89a2c4b25c0b05e551cca26f29c5d2adf3f998bf.css" afterPath="$PROJECT_DIR$/public/assets/spree/frontend/all-73ae035ebae4706c358aca0d89a2c4b25c0b05e551cca26f29c5d2adf3f998bf.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/spree/frontend/all-87ff02528b3a734fefa3805e4d227a604fbb50fea5832f8a4bcf800ef6cecc44.css" afterPath="$PROJECT_DIR$/public/assets/spree/frontend/all-87ff02528b3a734fefa3805e4d227a604fbb50fea5832f8a4bcf800ef6cecc44.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/spree/frontend/all-a0e32304671ca238116738775b01a40b97b7acdcff0e1eb121aa1ac874f9a1e4.css" afterPath="$PROJECT_DIR$/public/assets/spree/frontend/all-a0e32304671ca238116738775b01a40b97b7acdcff0e1eb121aa1ac874f9a1e4.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/spree/frontend/all-cf0de946b0e05eb80133d0c1e6d46d00852d7e96539d66af5a67390af9390bb0.css" afterPath="$PROJECT_DIR$/public/assets/spree/frontend/all-cf0de946b0e05eb80133d0c1e6d46d00852d7e96539d66af5a67390af9390bb0.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/spree/frontend/all-e8949e0305d1e26afe38712408b47f6149b9217dc7ab17b9e945cdcc29c7a1d7.css" afterPath="$PROJECT_DIR$/public/assets/spree/frontend/all-e8949e0305d1e26afe38712408b47f6149b9217dc7ab17b9e945cdcc29c7a1d7.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/spree/frontend/all-f4873113e3a035958228d1f0a78ff508302420bd3461f5b41c1d4b10072a3eb0.css" afterPath="$PROJECT_DIR$/public/assets/spree/frontend/all-f4873113e3a035958228d1f0a78ff508302420bd3461f5b41c1d4b10072a3eb0.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.scss" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -56,8 +41,8 @@
       <file leaf-file-name="application.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="473">
-              <caret line="534" column="26" lean-forward="false" selection-start-line="534" selection-start-column="26" selection-end-line="535" selection-end-column="19" />
+            <state relative-caret-position="239">
+              <caret line="500" column="22" lean-forward="true" selection-start-line="499" selection-start-column="1" selection-end-line="500" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -140,6 +125,7 @@
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/config/environments/production.rb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/application.scss" />
       </list>
     </option>
   </component>
@@ -423,15 +409,16 @@
       <workItem from="1548048877286" duration="936000" />
       <workItem from="1548049832707" duration="3236000" />
       <workItem from="1548053139005" duration="4119000" />
-      <workItem from="1548059517376" duration="20106000" />
+      <workItem from="1548059517376" duration="20703000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28397000" />
+    <option name="totallyTimeSpent" value="28994000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1795" height="1035" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25815684" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -441,7 +428,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.792873" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.792873" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -823,8 +810,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="534" column="26" lean-forward="false" selection-start-line="534" selection-start-column="26" selection-end-line="535" selection-end-column="19" />
+        <state relative-caret-position="239">
+          <caret line="500" column="22" lean-forward="true" selection-start-line="499" selection-start-column="1" selection-end-line="500" selection-end-column="22" />
           <folding />
         </state>
       </provider>
