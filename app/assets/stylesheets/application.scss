@@ -246,6 +246,59 @@ html, body, .wrapper{
     right: 0;
 }
 /*
+    HEADER TOP SECTION
+ */
+.header-top-section{
+  display: block;
+  width: 100%;
+  background: #1abc9c;
+  color: #fff;
+}
+
+.header-top-content{}
+.header-top-content ul{}
+.header-top-content ul li{}
+.header-top-content ul li a{
+  color: #fff;
+  font-size: 14px;
+  font-weight: 300;
+  padding-left: 0;
+}
+.header-top-content ul li a:hover, .header-top-content ul li a:active, .header-top-content ul li a:focus{
+  background: transparent;
+  color: #fff;
+}
+.header-top-content ul li:last-child a i{
+  /*font-size: 20px;  */
+  position: relative;
+  top: 2px;
+}
+
+.header-top-menu{}
+.header-top-menu ul{}
+.header-top-menu ul li{}
+.header-top-menu ul li a{
+  color: #fff;
+  font-size: 14px;
+  font-weight: 300;
+}
+.header-top-menu ul li a:hover, .header-top-menu ul li a:active, .header-top-menu ul li a:focus{
+  background: transparent
+}
+.header-top-menu ul li a i{
+
+}
+#top-nav-bar{
+  #nav-bar{
+    li{
+      display: none;
+    }
+    #search-bar{
+      display: block;
+    }
+  }
+}
+/*
     SLIDER SECTION
  */
 .slider-section{
@@ -665,6 +718,45 @@ a.carousel-control.right > span{
     margin-top: 30px;
     font-size: 16px;
     text-transform: uppercase;
+}
+.new_contact_us_contact{
+  margin-top: 10px;
+  display: block;
+}
+.contact-form .col-md-6{
+  display: block;
+  margin-bottom: 8px;
+}
+
+.contact-form .input-group{
+  width: 100%;
+  display: block;
+}
+.contact-form .input-group input.form-control, .new_contact_us_contact .input-group textarea.form-control{
+  width: 100%;
+  display: block;
+  background: transparent;
+  border: 1px solid #fff;
+  height: 50px;
+}
+.contact-form .input-group textarea.form-control{
+  height: 150px;
+}
+.contact-form .input-group .form-control:focus, .new_contact_us_contact .input-group .form-control:hover{
+  border: 1px solid #1abc9c;
+  box-shadow: none;
+  color: #1abc9c !important;
+}
+
+.contact-form .input-group input.contact-submit{
+  display: inline-block;
+  background: #1abc9c !important;
+  padding: 10px 40px;
+  border: none;
+  color: #fff !important;
+  margin-top: 30px;
+  font-size: 16px;
+  text-transform: uppercase;
 }
 #best-sellers .col-lg-12.col-sm-12{
     margin-bottom: 30px;

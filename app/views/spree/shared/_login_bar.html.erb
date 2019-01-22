@@ -1,5 +1,8 @@
 <% if spree_current_user %>
   <li><%= link_to Spree.t(:my_account), spree.account_path %></li>
+  <li><a href="/wishlist">Wishlist</a></li>
+  <li><a href="/cart">Cart</a></li>
+  <li><a href="/checkout">Checkout</a></li>
   <li><%= link_to Spree.t(:logout), spree.logout_path %></li>
 <% else %>
   <li id="link-to-login"><%= link_to Spree.t(:login), spree.login_path %></li>

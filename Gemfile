@@ -53,19 +53,21 @@ end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
-gem 'spree', '~> 3.5.0'
+gem 'spree', github: 'rubyonrailsdeveloper/gemspree350'
 gem 'spree_auth_devise', '~> 3.4'
 gem 'spree_gateway', '~> 3.4'
 
-gem 'spree_favorite_products', github: 'vinsol-spree-contrib/spree_favorite_products'
+gem 'spree_favorite_products', github: 'rubyonrailsdeveloper/spree_favorite_product'
 gem 'spree_product_subscriptions', github: 'rubyonrailsdeveloper/spree-product-subscriptions'
-gem 'spree_address_auto_complete', git: 'https://github.com/vinsol-spree-contrib/spree_address_auto_complete', branch: 'master'
-gem 'spree_promo_users_codes', github: 'vinsol-spree-contrib/spree_promo_users_codes', branch: 'master'
-gem 'spree_quotes_management', github: 'vinsol-spree-contrib/spree-quotes-management'
+gem 'spree_address_auto_complete', github: 'rubyonrailsdeveloper/spree_address_auto_complete'
+gem 'spree_promo_users_codes', github: 'rubyonrailsdeveloper/spree_promo_user_code'
+
+gem 'spree_quotes_management', github: 'rubyonrailsdeveloper/spree_quotes_management'
+
 gem 'spree_best_sellers', github: 'rubyonrailsdeveloper/spree_best_seller'
 
-gem 'spree_wishlist', github: 'spree-contrib/spree_wishlist', branch: 'master'
-gem 'spree_email_to_friend', github: 'spree-contrib/spree_email_to_friend', branch: 'master'
+gem 'spree_wishlist', github: 'rubyonrailsdeveloper/spree_wishlist'
+gem 'spree_email_to_friend', github: 'rubyonrailsdeveloper/spree_email_to_friend'
 
 
 gem 'spree_contact_us', github: 'rubyonrailsdeveloper/spree_contactUs'
