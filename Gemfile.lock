@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rubyonrailsdeveloper/gemspree350.git
-  revision: 8b583d8fc586eed577e88a04f595d10f1b07793a
+  revision: 0d7c7d4706f4f160499cf44e41966bb7c7af1481
   specs:
     spree (3.5.0)
       spree_api (= 3.5.0)
@@ -55,6 +55,14 @@ GIT
       spree_core (= 3.5.0)
 
 GIT
+  remote: https://github.com/rubyonrailsdeveloper/spree-gateway.git
+  revision: 65de442ba0131cb7a0ea647457adc274db3d3ca7
+  specs:
+    spree_gateway (3.4.1)
+      spree_core (>= 3.1.0, < 4.0)
+      spree_extension
+
+GIT
   remote: https://github.com/rubyonrailsdeveloper/spree-product-subscriptions.git
   revision: 0f282ac3ed79bfd3148fdd716554c95cfb2460f2
   specs:
@@ -77,7 +85,7 @@ GIT
 
 GIT
   remote: https://github.com/rubyonrailsdeveloper/spree_contactUs.git
-  revision: d631d6d57f058a3d6b679170b845c3426a30f42f
+  revision: ed22bbb0bf7bf0eaa18716756d7ca04ccf8884d5
   specs:
     spree_contact_us (3.3.0)
       spree_core (>= 3.1.0, < 4.0)
@@ -93,7 +101,7 @@ GIT
 
 GIT
   remote: https://github.com/rubyonrailsdeveloper/spree_favorite_product.git
-  revision: 53e4ec144d84efe98b2830fabb97d4d48a4b8582
+  revision: 3b9d0a2d319850158ef3a385f9709bcfb43cfb6a
   specs:
     spree_favorite_products (3.3.0)
       spree_core (>= 3.2.0, < 4.0.0)
@@ -109,7 +117,7 @@ GIT
 
 GIT
   remote: https://github.com/rubyonrailsdeveloper/spree_quotes_management.git
-  revision: 77b21b006d95244428965b3a1ab775e44a800c32
+  revision: 3f5da80b0739e376b0a09e69e7a3b8878391bb60
   specs:
     spree_quotes_management (3.3.0)
       spree_core (>= 3.2.0, < 4.0)
@@ -176,7 +184,7 @@ GEM
     addressable (2.6.0)
       public_suffix (>= 2.0.2, < 4.0)
     arel (8.0.0)
-    autoprefixer-rails (9.4.6)
+    autoprefixer-rails (9.4.7)
       execjs
     awesome_nested_set (3.1.4)
       activerecord (>= 4.0.0, < 5.3)
@@ -379,9 +387,6 @@ GEM
     spree_extension (0.0.7)
       activerecord (>= 4.2)
       spree_core
-    spree_gateway (3.4.1)
-      spree_core (>= 3.1.0, < 4.0)
-      spree_extension
     spring (2.0.2)
       activesupport (>= 4.2)
     spring-watcher-listen (2.0.1)
@@ -457,7 +462,7 @@ DEPENDENCIES
   spree_contact_us!
   spree_email_to_friend!
   spree_favorite_products!
-  spree_gateway (~> 3.4)
+  spree_gateway!
   spree_product_subscriptions!
   spree_promo_users_codes!
   spree_quotes_management!

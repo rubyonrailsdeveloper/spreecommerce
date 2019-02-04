@@ -267,8 +267,8 @@ ActiveRecord::Schema.define(version: 20190121072058) do
     t.string "uid", null: false
     t.string "email", null: false
     t.boolean "active", default: true, null: false
-    t.datetime "created_at", default: "2019-01-21 07:20:54", null: false
-    t.datetime "updated_at", default: "2019-01-21 07:20:54", null: false
+    t.datetime "created_at", default: "2019-01-29 20:29:47", null: false
+    t.datetime "updated_at", default: "2019-01-29 20:29:47", null: false
     t.integer "user_id"
     t.index ["active", "email"], name: "index_spree_marketing_contacts_on_active_and_email"
     t.index ["email"], name: "index_spree_marketing_contacts_on_email"
@@ -279,8 +279,8 @@ ActiveRecord::Schema.define(version: 20190121072058) do
     t.integer "contact_id"
     t.integer "list_id"
     t.boolean "active", default: true, null: false
-    t.datetime "created_at", default: "2019-01-21 07:20:54", null: false
-    t.datetime "updated_at", default: "2019-01-21 07:20:54", null: false
+    t.datetime "created_at", default: "2019-01-29 20:29:47", null: false
+    t.datetime "updated_at", default: "2019-01-29 20:29:47", null: false
     t.index ["active"], name: "index_spree_marketing_contacts_lists_on_active"
     t.index ["contact_id"], name: "index_spree_marketing_contacts_lists_on_contact_id"
     t.index ["list_id", "contact_id"], name: "index_spree_marketing_contacts_lists_on_list_id_and_contact_id"
@@ -292,8 +292,8 @@ ActiveRecord::Schema.define(version: 20190121072058) do
     t.string "name"
     t.boolean "active", default: true, null: false
     t.string "type"
-    t.datetime "created_at", default: "2019-01-21 07:20:54", null: false
-    t.datetime "updated_at", default: "2019-01-21 07:20:54", null: false
+    t.datetime "created_at", default: "2019-01-29 20:29:47", null: false
+    t.datetime "updated_at", default: "2019-01-29 20:29:47", null: false
     t.string "entity_type"
     t.integer "entity_id"
     t.string "searched_keyword"

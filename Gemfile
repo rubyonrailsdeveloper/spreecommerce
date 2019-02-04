@@ -55,7 +55,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'spree', github: 'rubyonrailsdeveloper/gemspree350'
 gem 'spree_auth_devise', '~> 3.4'
-gem 'spree_gateway', '~> 3.4'
+gem 'spree_gateway', github: 'rubyonrailsdeveloper/spree-gateway'
 
 gem 'spree_favorite_products', github: 'rubyonrailsdeveloper/spree_favorite_product'
 gem 'spree_product_subscriptions', github: 'rubyonrailsdeveloper/spree-product-subscriptions'
