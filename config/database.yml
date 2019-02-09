@@ -24,7 +24,7 @@ default: &default
 development:
   <<: *default
   database: spreecommerce3_5_development
-  username: development
+  username: dev
   password: 123
 
   # The specified database role being used to connect to postgres.

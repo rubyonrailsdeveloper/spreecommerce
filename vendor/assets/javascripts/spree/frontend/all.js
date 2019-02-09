@@ -21,3 +21,4 @@
 //= require spree/frontend/spree_quotes_management
 //= require spree/frontend/spree_wishlist
 
+//= require spree/frontend/spree_recently_viewed

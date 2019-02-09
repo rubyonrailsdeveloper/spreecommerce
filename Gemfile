@@ -71,3 +71,4 @@ gem 'spree_email_to_friend', github: 'rubyonrailsdeveloper/spree_email_to_friend
 
 
 gem 'spree_contact_us', github: 'rubyonrailsdeveloper/spree_contactUs'
+gem 'spree_recently_viewed', github: 'spree-contrib/spree_recently_viewed'
