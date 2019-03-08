@@ -13,7 +13,15 @@
  *= require_tree .
  *= require_self
  */
-
+.hidden {
+    display: none;
+}
+.alignleft {
+    float: left;
+}
+.alignright {
+    float: right;
+}
 .aligncenter {
     margin-left: auto;
     margin-right: auto;
